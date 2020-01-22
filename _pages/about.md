@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About Me
-author: Anusha Devi
+author: Johnathan Smith
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature
-
-Hey everyone this is anusha kumari and this is my website
+signature: assets/images/about/signature.png
+---
+Hi everyone ! This is Anushaa kumar, Welcome to my website.
