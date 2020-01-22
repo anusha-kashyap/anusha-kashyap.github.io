@@ -36,13 +36,12 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Anusha kumari <br> Teacher & Learner
+  hero-title: Hi! I’m <br> Anusha kumari <br> Teacher & Learner.
 
 social:
-- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-facebook", link: "http://www.facebook.com/Anusha Kashyap"}
 - {icon: "ti-instagram", link: "http://www.instagram.com/unbreakable___soul"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-twitter", link: "http://www.twitter.com/@anushakashyap05"}
 - {icon: "ti-youtube", link: "#"}
 
 
