@@ -1,17 +1,18 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: Anusha - Jekyll Portfolio Template
 logo: logo.png
 email: steve.fruits@email.com
 phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+address: Ganja Nagar, Bangalore
 
 menu:
 - {name: About, link: '/about/'}
 - {name: Blog, link: '/blog/'}
 - {name: Portfolio, link: '/portfolio/'}
 - {name: Contact, link: '/contact/'}
+
 
 
 #-------------------------------
@@ -35,13 +36,14 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Anusha <br> The Timepasser
 
 social:
 - {icon: "ti-facebook", link: "#"}
 - {icon: "ti-instagram", link: "#"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
+- {icon: "ti-youtube", link: "#"}
 
 
 #-------------------------------
@@ -49,7 +51,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  baba blackship, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
