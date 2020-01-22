@@ -114,7 +114,7 @@ experience:
 
 education-title: Education
 education:
-- {name: Bachelor of Technology, date: '2022', organization: 'Bangalore Institute of Technology'}
+- {name: Bachelor of Technology, date: '2021', organization: 'Bangalore Institute of Technology'}
 - {name: pre university college, date: '2016', organization: 'Deeksha, Reva independent pu college',percentage/cgpa: '84.96%' }
 - {name: 10th board, date: '2014', organization: 'Army Public School (PRTC)', percentage/cgpa: '7.6'}
 
