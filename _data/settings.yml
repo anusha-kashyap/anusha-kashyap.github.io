@@ -36,11 +36,11 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Anusha kumari <br> your host on this website
+  hero-title: Hi! I’m <br> Anusha kumari <br> Teacher & Learner
 
 social:
 - {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
+- {icon: "ti-instagram", link: "unbreakable__soul"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 - {icon: "ti-youtube", link: "#"}
@@ -51,7 +51,7 @@ social:
 
 # About Section
 blurb:
- Hey guys welcome to my website .I Anusha Kumari created this website to teach and learn a lot of things.I hope this websiite is very much helpul to you.
+ Hey guys welcome to my website . I Anusha Kumari created this website to teach and learn a lot of things. I hope this websiite is very much helpul to you.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -105,7 +105,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
+- {name: , icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
 - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
 - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
@@ -116,8 +116,8 @@ experience:
 education-title: Education
 education:
 - {name: Bachelor of Technology, date: '2022', organization: 'Bangalore Institute of Technology'}
-- {name: pre university college, date: '2016', organization: 'Deeksha,Reva independent pu college',percentage/cgpa: '84.96%' }
-- {name: 10th board, date: '2014', organization: 'Army Public School(prtc)', percentage/cgpa: '7.6'}
+- {name: pre university college, date: '2016', organization: 'Deeksha, Reva independent pu college',percentage/cgpa: '84.96%' }
+- {name: 10th board, date: '2014', organization: 'Army Public School (PRTC)', percentage/cgpa: '7.6'}
 
 
 #-------------------------------
