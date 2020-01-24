@@ -104,17 +104,17 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: , icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
-
+- {name: Internshala Student Partner , icon: '', date: 'Dec 2019 - Feb 2020 ', organization: 'INTERNSHALA'}
+- {name: Data structure and Data science internship , icon: 'icon-2.png', date: 'Jan 2020 - Feb 2020', organization: 'SHUCHI INTERNATIONAL (SOCIAL SERVICE)'}
+- {name: Data Science, icon: 'icon-3.png', date: 'september 2019', organization: 'DATA CAMP'}
+- {name: Python , icon: '', date: 'November 2019 ', organization: 'ONLINE TRAINING'}
 
 #-------------------------------
 # Education Section
 
 education-title: Education
 education:
-- {name: Bachelor of Technology, date: '2021', organization: 'Bangalore Institute of Technology'}
+- {name: Bachelor of Technology, date: '2021', organization: 'Bangalore Institute of Technology', percentage/cgpa: '7.0'}
 - {name: pre university college, date: '2016', organization: 'Deeksha, Reva independent pu college',percentage/cgpa: '84.96%' }
 - {name: 10th board, date: '2014', organization: 'Army Public School (PRTC)', percentage/cgpa: '7.6'}
 
@@ -125,23 +125,18 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Data science,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'I learnt Data science which gives knowlwdge about various visualization,Data structures, control structures etc and is used for various other purposes.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Python,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'python plays an intermediate role in data science ,the intermediate python for data science,cleaning data in python and many more.',
     active: true # Add true to select section
   }
-- {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
+
 
 
 
@@ -183,13 +178,13 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "screenshot_20200124_135101_com.android.gallery3d"
     portfolio-type:
      - type: "design"
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "screenshot_20200124_135129_com.android.gallery3d"
     portfolio-type:
       - type: "branding"
       
