@@ -106,7 +106,7 @@ experience-title: Experience
 experience:
 - {name: Internshala Student Partner , icon: 'ti-internshala', date: 'Dec 2019 - Feb 2020 ', organization: 'INTERNSHALA'}
 - {name: Data structure and Data science internship , icon: 'ti-datascience', date: 'Jan 2020 - Feb 2020', organization: 'SHUCHI INTERNATIONAL (SOCIAL SERVICE)'}
-- {name: Data Science, icon: 'icon-3.png', date: 'september 2019', organization: 'DATA CAMP'}
+- {name: Data Science, icon: 'ti data', date: 'september 2019', organization: 'DATA CAMP'}
 - {name: Python , icon: '', date: 'November 2019 ', organization: 'ONLINE TRAINING'}
 
 #-------------------------------
@@ -127,7 +127,7 @@ services:
 - {
     name: Data science,
     icon: ti-datascience ,
-    description: 'I learnt Data science which gives knowlwdge about various visualization,Data structures, control structures etc and is used for various other purposes.',
+    description: 'I learnt Data science which gives knowledge about various visualization,Data structures, control structures etc and is used for various other purposes.',
     active: # Add true to select section
   }
 - {
