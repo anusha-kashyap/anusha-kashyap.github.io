@@ -104,8 +104,8 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Internshala Student Partner , icon: '', date: 'Dec 2019 - Feb 2020 ', organization: 'INTERNSHALA'}
-- {name: Data structure and Data science internship , icon: 'icon-2.png', date: 'Jan 2020 - Feb 2020', organization: 'SHUCHI INTERNATIONAL (SOCIAL SERVICE)'}
+- {name: Internshala Student Partner , icon: 'ti-internshala', date: 'Dec 2019 - Feb 2020 ', organization: 'INTERNSHALA'}
+- {name: Data structure and Data science internship , icon: 'ti-datascience', date: 'Jan 2020 - Feb 2020', organization: 'SHUCHI INTERNATIONAL (SOCIAL SERVICE)'}
 - {name: Data Science, icon: 'icon-3.png', date: 'september 2019', organization: 'DATA CAMP'}
 - {name: Python , icon: '', date: 'November 2019 ', organization: 'ONLINE TRAINING'}
 
@@ -126,13 +126,13 @@ services-title: Services
 services:
 - {
     name: Data science,
-    icon: ti-palette,
+    icon: ti-datascience ,
     description: 'I learnt Data science which gives knowlwdge about various visualization,Data structures, control structures etc and is used for various other purposes.',
     active: # Add true to select section
   }
 - {
     name: Python,
-    icon: ti-vector,
+    icon: ti-python,
     description: 'python plays an intermediate role in data science ,the intermediate python for data science,cleaning data in python and many more.',
     active: true # Add true to select section
   }
@@ -146,7 +146,7 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "screenshot_20200124_135101_com.android.gallery3d"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
@@ -178,7 +178,7 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "screenshot_20200124_135101_com.android.gallery3d"
+    url: " "
     portfolio-type:
      - type: "design"
      - type: "illustration"
