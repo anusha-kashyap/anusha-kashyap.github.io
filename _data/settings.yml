@@ -5,7 +5,7 @@ title: Anusha kumari :)
 logo: logo.png
 email: asasanushakumari@gmail.com
 phone: nope
-address : Ganganagar,bangalore-560032
+address : 21/1,4th main road,l.d block,ganganagar,banagalore-560032.
 
 menu:
 - {name: About, link: '/about/'}
@@ -94,7 +94,7 @@ team:
 skills-title: Skills
 skills:
 - {name: Data Science, color: '#fdb157', value: '90%'}
-- {name: pandas, color: '#9473e6', value: '60%'}
+- {name: Web Development, color: '#9473e6', value: '60%'}
 - {name: piano, color: '#bdecf6', value: '80%'}
 - {name: python, color: '#ffbcaa', value: '70%'}
 
