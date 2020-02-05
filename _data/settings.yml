@@ -58,7 +58,7 @@ blurb-btn-name: know more
 
 # About Page
 
-# Web Development Process Section
+# # Web Development Process Section
 Web Development-process:
   - title : "Analyze,Research & Plan"
     icon : "assets/images/icons/plan.png"
