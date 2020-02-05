@@ -59,7 +59,7 @@ blurb-btn-name: know more
 # About Page
 
 # Work Process Section
-web-development:
+work-process:
   - title : "Analyze,Research & Plan"
     icon : "assets/images/icons/plan.png"
     content : "The work given should be analyzed in a way it's solution can be found.The plan to be executed is researched with all facts &contents that are informative and useful."
