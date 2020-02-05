@@ -50,7 +50,7 @@ social:
 
 # About Section
 blurb:
- Hey guys welcome to my website . I Anusha Kumari created this website to teach and learn a lot of things. I hope this websiite is very much helpul to you.
+ Hello everyone ! I Anusha Kumari studying in Bangalore Institute Of Technology have great interest in Data science which gives knowledge about Intermediate python for Data Science,Matplotlib,pandas etc..I also have keen interest in Web Development,learning and teaching to make a good change in the society.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -58,34 +58,31 @@ blurb-btn-name: know more
 
 # About Page
 
-# Work Process Section
-work-process:
-  - title : "Research and Plan"
+# Web Development Process Section
+Web Development-process:
+  - title : "Analyze,Research & Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "The work given should be analyzed in a way it's solution can be found.The plan to be executed is researched with all facts &contents that are informative and useful."
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "The approved design is then selected and made changes according to the needs and all the web development task done in this step."
     
-  - title : "Deliver"
+  - title : "Presentation"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "The final Presentation & delivery should be according to the requirement & any small changes required can be made accordingly."
 
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Ujwal Kumar"
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
     designation : "Web Developer"
     
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+  - title : "Ankitha Kumari"
+    image : "assets/images/team/member-2.png"
+    designation : "Manager"
+   
 
 
 #-------------------------------
