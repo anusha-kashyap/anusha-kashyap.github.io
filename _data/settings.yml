@@ -50,7 +50,7 @@ social:
 
 # About Section
 blurb:
- Hello everyone ! I Anusha Kumari studying in Bangalore Institute Of Technology have great interest in Data science which gives knowledge about Intermediate python for Data Science,Matplotlib,pandas etc..I also have keen interest in Web Development,learning and teaching to make a good change in the society.
+ Hello everyone ! I Anusha Kumari studying in Bangalore Institute Of Technology have great interest in Digital Marketing which builds Online presence ,helps in marketing terms like SEO and SEM,uses analyses and adapt to set goals etc..I also have keen interest in Web Development,learning and teaching to make a good change in the society.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -101,6 +101,7 @@ skills:
 
 experience-title: Experience
 experience:
+- {name: Digital Marketing Lead , icon: 'icon-1.png', date: 'May 2020 ', organization: 'Chillitray Technologies'}
 - {name: Internshala Student Partner , icon: 'icon-1.png', date: 'Dec 2019 - Feb 2020 ', organization: 'INTERNSHALA'}
 - {name: Data structure and Data science internship , icon: 'icon-2.png', date: 'Jan 2020 - Feb 2020', organization: 'SHUCHI INTERNATIONAL (SOCIAL SERVICE)'}
 - {name: Data Science, icon: 'icon-3.png', date: 'september 2019', organization: 'DATA CAMP'}
@@ -111,7 +112,7 @@ experience:
 
 education-title: Education
 education:
-- {name: Bachelor of Technology, date: '2021', organization: 'Bangalore Institute of Technology', percentage/cgpa: '7.0'}
+- {name: Bachelor of Engineering, date: '2021', organization: 'Bangalore Institute of Technology', percentage/cgpa: '7.0'}
 - {name: pre university college, date: '2016', organization: 'Deeksha, Reva independent pu college',percentage/cgpa: '84.96%' }
 - {name: 10th board, date: '2014', organization: 'Army Public School (PRTC)', percentage/cgpa: '7.6'}
 
@@ -122,6 +123,12 @@ education:
 services-title: Services
 services:
 - {
+    name: Digital Marketing,
+    icon: ti-datascience ,
+    description: 'Digital Marketing is something that helps in various methods to gain customers using different methods like SEO(Search engine optimization) & SEM etc.',
+    active: # Add true to select section
+  }
+- {
     name: Data science,
     icon: ti-datascience ,
     description: 'I learnt Data science which gives knowledge about various visualization,Data structures, control structures etc and is used for various other purposes.',
@@ -130,7 +137,7 @@ services:
 - {
     name: Python,
     icon: ti-python,
-    description: 'python plays an intermediate role in data science ,the intermediate python for data science,cleaning data in python and many more.',
+    description: 'python  is a high level lang & plays an intermediate role in data science,the intermediate python for data science,cleaning data in python and many more.',
     active: true # Add true to select section
   }
 
@@ -230,19 +237,15 @@ portfolio-items:
 testimonial-items:
   - name: "Anusha Kumari"
     image: "assets/images/testimonial/client-1.png"
-    designation: "Developer & Data Scientist"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation: "Digital Marketing expert "
+    content : "digital marketing is great"
     
   - name: "Anusha Kumari"
     image: "assets/images/testimonial/client-1.png"
     designation: "Developer & Data Scientist"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "Anusha Kumari"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "Developer & Data Scientist"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
+ 
 
 #-------------------------------
 # Client Slider Section
