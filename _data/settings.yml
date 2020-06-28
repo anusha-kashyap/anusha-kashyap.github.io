@@ -105,7 +105,6 @@ experience:
 - {name: Internshala Student Partner , icon: 'icon-1.png', date: 'Dec 2019 - Feb 2020 ', organization: 'INTERNSHALA'}
 - {name: Data structure and Data science internship , icon: 'icon-2.png', date: 'Jan 2020 - Feb 2020', organization: 'SHUCHI INTERNATIONAL (SOCIAL SERVICE)'}
 - {name: Data Science, icon: 'icon-3.png', date: 'september 2019', organization: 'DATA CAMP'}
-- {name: Python , icon: 'icon-4.png', date: 'November 2019 ', organization: 'ONLINE TRAINING'}
 
 #-------------------------------
 # Education Section
@@ -238,7 +237,7 @@ testimonial-items:
   - name: "Anusha Kumari"
     image: "assets/images/testimonial/client-1.png"
     designation: "Digital Marketing expert "
-    content : "digital marketing is great"
+    content : "Digital Marketing has given me idea about building an online presence which is involved with calling ,buying products and location setting online.It helps in marketing that includes <strong>SEO i.e, search engine optimization & SEM i.e, search engine marketing.</strong>It also involves analysation which seta realistic goals and analysis from where the online customers arrive and there requirements."
     
   - name: "Anusha Kumari"
     image: "assets/images/testimonial/client-1.png"
