@@ -239,10 +239,10 @@ testimonial-items:
     designation: "Digital Marketing expert "
     content : "Digital Marketing has given me idea about building an online presence which is involved with calling ,buying products and location setting online.It helps in marketing that includes <strong>SEO i.e, search engine optimization & SEM i.e, search engine marketing.</strong>It also involves analysation which seta realistic goals and analysis from where the online customers arrive and there requirements."
     
-  - name: "Anusha Kumari"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "Developer & Data Scientist"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Ujwal kumar"
+    image: "assets/images/testimonial/ujwal.png"
+    designation: "Founder, Chillitray Technologies"
+    content: "Anusha is one of the sharpest mind we have worked with, she did not only align our digital marketing flow but also has great leadership qualities to build and lead teams. I highly recommend anusha!"
     
  
 
