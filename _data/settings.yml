@@ -101,7 +101,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Digital Marketing Lead , icon: 'LogoTransparent.png', date: 'May 2020 ', organization: 'Chillitray Technologies'}
+- {name: Digital Marketing Lead , icon: 'icon-1.png', date: 'May 2020 ', organization: 'Chillitray Technologies'}
 - {name: Internshala Student Partner , icon: 'icon-1.png', date: 'Dec 2019 - Feb 2020 ', organization: 'INTERNSHALA'}
 - {name: Data structure and Data science internship , icon: 'icon-2.png', date: 'Jan 2020 - Feb 2020', organization: 'SHUCHI INTERNATIONAL (SOCIAL SERVICE)'}
 - {name: Data Science, icon: 'icon-3.png', date: 'september 2019', organization: 'DATA CAMP'}
